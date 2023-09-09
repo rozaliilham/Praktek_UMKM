@@ -1,0 +1,1 @@
+[28-Mar-2022 21:44:02 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/hinosema/public_html/smm/application/libraries/phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hinosema/public_html/smm/application/controllers/Auth.php on line 11

@@ -1,0 +1,37 @@
+
+  Welcome Panel SMM Codeigniter 3
+
+
+INSTALASI
+
+1.	Extract File Project ke webserver 
+2.	buat database dengan nama smm_ci atau sesuaikan dengan project Anda
+3.	import file database di folder DB/smm_ci.sql
+4.	setting database server di file /applications/config/database.php
+
+	$db['default'] = array(
+		'hostname' => 'localhost',
+		'username' => 'root',
+		'password' => '',
+		'database' => 'smm_ci',
+
+	Sesuaikan dengan pengaturan server Anda.
+
+5. buka url di browser dengan alamat project Anda
+6. akses login /auth 
+   gunakan account default :
+	- username 	: admin
+	- password	: admin
+
+7. Silahkan ubah semua settingan konfigurasi yang ada di menu halaman Admin.
+8. setting cron jobs sesuaikan command example yg ada di halaman cpanel Cron Jobs
+   code command :
+   Untuk update layanan sesuaikan waktu minimal 1 jam
+   - /usr/local/bin/php /home/username/public_html/cron.php /cronjob/update_layanan
+
+
+   Untuk update status sesuaikan waktu minimal 15 menit
+   - /usr/local/bin/php /home/username/public_html/cron.php /cronjob/update_status
+
+								---- TERIMAKASIH ----
+

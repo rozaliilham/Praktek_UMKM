@@ -1,0 +1,30 @@
+{
+	 "Operator":{
+		  "TELKOMSEL":["0822","0853","0811","0812","0813","0821","0852","0823","0851"],
+		  "INDOSAT"  :["0814","0815","0816","0855","0856","0857","0858"],
+		  "XL"       :["0817","0818","0819","0859","0877","0878"],
+		  "AXIS"     :["0838","0831","0832","0833"],
+		  "TRI"      :["0895","0896","0897","0898","0899"],
+		  "SMART"    :["0881","0882","0883","0884","0885","0886","0887","0888","0889"],
+		  "by.U"     :["0851"]
+	 },
+
+	 "Games"  :{
+				 "HAGO"	 : ["https://vignette.wikia.nocookie.net/logopedia/images/5/5d/Hago_logo.png"],
+				 "FREE FIRE"	 : ["https://s3-ap-southeast-1.amazonaws.com/ies-public-storage/images/bocoran-4-attachment-baru-yang-segera-hadir-free-fire.jpg"],
+				 "Call of Duty MOBILE"	 : ["https://register.codm.garena.co.id/static/media/CODM_big.6c9d3cf4.png"],
+				 "Lords Mobile"	 : ["https://www.nicepng.com/png/detail/355-3555436_lo-logo-lords-mobile-logo.png"],
+    			 "MOBILE LEGEND"	 : ["https://certifiedpersonnel.biz/wp-content/uploads/2019/06/Mobilelegends-1.png"]
+			},
+
+	 "E-Money"  :{
+						 "GO PAY" : ["https://jatimplus.id/wp-content/uploads/2019/08/Gopay-Sponsor-Persik-New.png"],
+						 "DANA" : ["https://cms.dailysocial.id/wp-content/uploads/2018/10/9e12032f6dadef834b42d3430d97e4fb_DANA.png"],
+						 "LinkAja" : ["https://vectorlogo4u.com/wp-content/uploads/2019/03/link-aja-logo-vector-520x245.png"],
+						 "SHOPEE PAY" : ["https://mmc.tirto.id/image/2020/01/14/shopeepay-shopee.co.id_ratio-16x9.jpg"],
+						 "OVO"	 : ["https://blog-media.lifepal.co.id/app/uploads/sites/3/2019/08/15195114/apa-itu-ovo-740x416.jpg"],
+						 "GRAB"	 : ["https://img.favpng.com/4/25/9/logo-brand-vector-graphics-font-grab-png-favpng-axeugATAzxiScrANANbuBE24Z.jpg"],
+						 "BRI BRIZZI"	 : ["https://ecs7.tokopedia.net/img/recharge/operator/brizzi.png"],
+						 "MANDIRI E-TOLL"	 : ["https://www.cysend.com/images/products/etoll-card.svg"]
+	 			}
+}

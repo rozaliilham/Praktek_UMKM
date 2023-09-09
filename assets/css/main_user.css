@@ -1,0 +1,198 @@
+/* Main User */
+
+.se-pre-con {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: url("../img/loader/Preloader_2.gif") center no-repeat #fff;
+}
+
+.chat-list .chat-element {
+    margin-bottom: 20px;
+}
+
+.chat-list .chat-element a img {
+    width: 38px;
+    height: 38px;
+    margin-right: 10px;
+}
+
+.chat-list .chat-element .chat-avatar .circle {
+    position: absolute;
+}
+
+.chat-list .chat-element .media-body {
+    padding-left: 15px;
+}
+
+.chat-list .chat-element .media-body .speech-box {
+    background: #f5f5f5;
+    position: relative;
+    padding: 10px 15px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.chat-list .chat-element .media-body .speech-box:before {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 0;
+    height: 0;
+    left: 0;
+    top: 0;
+    border-top: 7px solid transparent;
+    border-bottom: 7px solid transparent;
+    border-right: 7px solid #f5f5f5;
+    margin: 15px 0 0 -6px;
+}
+
+.chat-list .chat-element.right a img {
+    margin-right: 0px;
+    margin-left: 10px;
+}
+
+.chat-list .chat-element.right .media-body {
+    padding-left: 0px;
+    padding-right: 15px;
+}
+
+.chat-list .chat-element.right .media-body .speech-box {
+    background-color: #cfecfe;
+}
+
+.chat-list .chat-element.right .media-body .speech-box:before {
+    left: auto;
+    right: 0;
+    border-top: 7px solid transparent;
+    border-bottom: 7px solid transparent;
+    border-left: 7px solid #cfecfe;
+    border-right: 0;
+    margin: 15px -6px 0 0;
+}
+
+.btn-circle {
+    border-radius: 100%;
+}
+
+.btn-circle.btn-sm,
+.btn-group-sm>.btn-circle.btn {
+    border-radius: 100%;
+}
+
+.btn .btn-circle {
+    border-radius: 100%;
+}
+
+.bg-rgb {
+    background: rgb(0, 232, 255);
+    background: linear-gradient(0deg, rgba(0, 232, 255, 1)0%, rgba(33, 137, 217, 1)100%);
+}
+
+.btn-ig {
+    background: radial-gradient(circle at 33% 100%, #fed373 4%, #f15245 30%, #d92e7f 62%, #9b36b7 85%, #515ecf);
+    color: white;
+}
+
+.btn-primary {
+    background: linear-gradient(to right, #507bf5 0%, #04c3e1 100%);
+    color: white;
+}
+
+.btn-primary:hover {
+    background: linear-gradient(to right, #2f63f9 0%, #00dcff 100%);
+    color: white;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+    background: #f9faff;
+}
+
+.chat-list .chat-element {
+    margin-bottom: 20px;
+}
+
+.chat-list .chat-element a img {
+    width: 38px;
+    height: 38px;
+    margin-right: 10px;
+}
+
+.chat-list .chat-element .chat-avatar .circle {
+    position: absolute;
+}
+
+.chat-list .chat-element .media-body {
+    padding-left: 15px;
+}
+
+.chat-list .chat-element .media-body .speech-box {
+    background: #dadada;
+    position: relative;
+    padding: 10px 15px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.chat-list .chat-element .media-body .speech-box:before {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 0;
+    height: 0;
+    left: 0;
+    top: 0;
+    border-top: 7px solid transparent;
+    border-bottom: 7px solid transparent;
+    border-right: 7px solid #dadada;
+    margin: 15px 0 0 -6px;
+}
+
+.chat-list .chat-element.right a img {
+    margin-right: 0px;
+    margin-left: 10px;
+}
+
+.chat-list .chat-element.right .media-body {
+    padding-left: 0px;
+    padding-right: 15px;
+}
+
+.chat-list .chat-element.right .media-body .speech-box {
+    background-color: #cfecfe;
+    margin-left: 63px;
+    margin-right: -7px;
+}
+
+.chat-list .chat-element.right .media-body .speech-box:before {
+    left: auto;
+    right: 0;
+    border-top: 7px solid transparent;
+    border-bottom: 7px solid transparent;
+    border-left: 7px solid #cfecfe;
+    border-right: 0;
+    margin: 15px -6px 0 0;
+}
+
+.card-header:first-child {
+    padding-left: 10px;
+    padding-right: 2px
+}
+
+.card-body {
+    padding-left: 10px;
+    padding-right: 10px
+}
+
+.btn-rd5 {
+    border-radius: 5rem;
+    padding: 4px 18px 5px 18px;
+}
